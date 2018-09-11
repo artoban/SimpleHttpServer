@@ -1,0 +1,20 @@
+﻿Date,Entrance,Exit,Tasks
+01/08/2018,10:00,17:00,General familiarization with the range of tasks. Installing WAS on PC and it's configuring.
+02/08/2018,8:15,18:45,Installing the ERP_PLUS application on WAS (PC) and configuring it (as a lab work). Familiarize yourself with the installation of WAS on AS400.
+5/8/2018,8:001,8:00,Launching the application ERP Plus on PC. Introduction to AS400. Acquaintance with Iskoor AS400 and WAS. Practical exercices with WAS on AS400.
+6/8/2018,7:30,18:30,Continuing of customers overview... Configuring WAS on AS400 (exercises).
+
+
+
+
+
+
+6/9/201815:00Meeting in the HM Soft office
+OK
+Date,Entrance,Exit,Tasks
+2/9/2018,7:40,18:40,Development of new functionality.
+3/9/2018,8:10,19:00I,Improoving functionality. Customers troubleshooting.
+4/9/2018,8:00,18:15,Development of new functionality according to customer troubleshooting.
+5/9/2018,11:10,19:25,Development of new functionality.
+6/9/2018,8:15,14:25,Development of new functionalities according to customer troubleshooting.
+9/9/2018,7:30,14:45,Development of new functionality.
