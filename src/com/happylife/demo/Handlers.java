@@ -74,7 +74,7 @@ public class Handlers {
 
 	public static class EchoPutHandler implements HttpHandler
 	{
-		private HSSFWorkbook hwb = new HSSFWorkbook();
+		private HSSFWorkbook hwb = null;
 		private int pageNumber = 0;
 		private HSSFSheet sheet = null;
 
@@ -129,6 +129,7 @@ public class Handlers {
 			System.out.println("Served by /echoPut handler...");
 			// parse request
 			InputStreamReader isr = new InputStreamReader(he.getRequestBody(), "utf-8");
+			hwb = new HSSFWorkbook();
 
 			// send response
 			String response = "";
