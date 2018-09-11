@@ -1,0 +1,6 @@
+https://www.codeproject.com/Tips/1043003/Create-a-Simple-Web-Server-in-Java-HTTPS-Server
+
+
+
+//Curl request:
+michael@small-xubuntu-desktop:~$ curl -k --upload-file Daily.txt https://localhost:9000/echoPut/
